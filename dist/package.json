@@ -1,6 +1,6 @@
 {
-  "name": "redux-action-triggers",
-  "version": "1.0.0",
+  "name": "@ricardo.islas/redux-action-triggers",
+  "version": "1.0.1",
   "description": "A simple way to trigger Redux action creators from a user interface based on React Components",
   "main": "index.js",
   "scripts": {
