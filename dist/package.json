@@ -1,0 +1,21 @@
+{
+  "name": "redux-action-triggers",
+  "version": "1.0.0",
+  "description": "A simple way to trigger Redux action creators from a user interface based on React Components",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ricardo Islas Ruiz",
+  "repository": "github:RicardoIslas/redux-action-triggers",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "path": "^0.12.7",
+    "socket.io": "^2.3.0",
+    "socket.io-client": "^2.3.0"
+  },
+  "bin": {
+    "redux-action-triggers": "./cli.js"
+  }
+}
