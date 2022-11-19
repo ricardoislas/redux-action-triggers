@@ -24,7 +24,7 @@
     "babel-loader": "^8.0.6",
     "nodemon": "^2.0.1",
     "webpack": "^4.32.2",
-    "webpack-cli": "^3.3.2",
+    "webpack-cli": "^3.3.12",
     "webpack-dev-server": "^3.4.1",
     "path": "^0.12.7",
     "express": "^4.17.1",
