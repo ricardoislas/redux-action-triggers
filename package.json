@@ -27,7 +27,7 @@
     "webpack-cli": "^3.3.2",
     "webpack-dev-server": "^3.4.1",
     "path": "^0.12.7",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "socket.io": "^2.3.0"
   }
 }
